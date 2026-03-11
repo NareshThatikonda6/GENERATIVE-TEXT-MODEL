@@ -15,6 +15,7 @@ MENTOR : NEELA SANTHOSH
 
 
 #DESCRIPTION :
+
 This assignment focuses on creating a Generative Text Model that can produce meaningful and coherent paragraphs based on a user-provided prompt. The purpose of the task is to demonstrate how Natural Language Processing (NLP) and machine learning models can automatically generate text that resembles human writing. Text generation is an important area of artificial intelligence that enables systems to understand context and predict the next sequence of words in a sentence.
 
 In this assignment, a GPT-2 (Generative Pre-trained Transformer) model is used to generate text. GPT-2 is a pretrained language model that has been trained on a large dataset of internet text. It uses a transformer-based architecture to analyze input text and generate relevant content. When the user provides a prompt or topic, the model predicts the next words and constructs a paragraph that continues the given idea.
